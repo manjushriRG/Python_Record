@@ -21,8 +21,8 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 ### 🧾 Program
 
 ```python
-# Reg.No-212223060222
-# Name-Ranjith Ganesh B.
+# Reg.No-212223060182
+# Name-Nandavelan SPS
 
 a = int(input())
 print("Natural Numbers are:")
