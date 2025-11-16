@@ -24,8 +24,8 @@ To write a Python program to check the relation between two numbers — whether 
 ### PROGRAM
 
 ```
-# Reg.No-212223060222
-# Name-Ranjith Ganesh B.
+# Reg.No-212223060182
+# Name-Nandavelan SPS
 
 compare = lambda a, b: (
     f"{a} is greater than {b}" if a > b 
