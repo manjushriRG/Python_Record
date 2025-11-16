@@ -11,8 +11,8 @@ To write a Python program to print the following integer literals: 123, 456, 789
 
 ## PROGRAM
 ```python
-# Reg.No-212223060222
-# Name-Ranjith Ganesh B.
+# Reg.No-212223060182
+# Name-Nandavelan SPS
 
 num1 = 123
 num2 = 456
