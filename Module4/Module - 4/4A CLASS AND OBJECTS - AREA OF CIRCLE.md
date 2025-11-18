@@ -1,4 +1,4 @@
-# Exp.No:19  
+# Exp.No:4a
 ## CLASS AND OBJECTS - AREA OF CIRCLE
 
 ---
@@ -27,25 +27,18 @@ To write a Python program to take the radius from the user and find the area of 
 
 ### PROGRAM
 
-```
-# Reg.No-212223060182
-# Name-Nandavelan SPS.
-
-import math
-
-class Pen:
-    def stationary(self, radius):
-        area = math.pi * radius * radius
+```python
+class saveetha:
+    def slot(self,r):
+        area=3.1416*r*r
         print(f"Area of circle: {area:.2f}")
-
-radius = float(input())
-p = Pen()
-p.stationary(radius)
-
+r=float(input())
+obj=saveetha()
+obj.slot(r)
 ```
 
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/b0c4b541-9deb-4cf5-819d-8da325c8f26e)
+<img width="1184" height="240" alt="image" src="https://github.com/user-attachments/assets/66549f85-20eb-4a7b-a1b9-f92b9207d566" />
 
 ### RESULT
-Thus the program to take the radius from the user and find the area of a circle has been implemented and executed successfully.
+Therefore, the output is the example to write a Python program to take the radius from the user and find the area of a circle using the class name `umbrella` and function name `rain`.
