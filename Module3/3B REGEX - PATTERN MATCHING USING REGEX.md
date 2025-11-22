@@ -23,8 +23,7 @@ To write a Python program that matches a string containing an `'a'` followed by 
 ### PROGRAM
 
 ```
-# Reg.No-212223060182
-# Name-Nandavelan SPS
+
 
 import re
 str = input()
