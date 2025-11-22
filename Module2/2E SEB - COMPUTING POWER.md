@@ -22,8 +22,6 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```
-# Reg.No-212223060182
-# Name-Nandavelan SPS
 
 num = int(input())
 sum = 0
