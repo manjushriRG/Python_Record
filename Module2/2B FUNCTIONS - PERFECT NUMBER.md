@@ -22,8 +22,7 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM
 ```
-# Reg.No-212223060182
-# Name-Nandavelan SPS
+
 def result(a, b):
     d = a % b
     print(f"Modulo is {d}")
