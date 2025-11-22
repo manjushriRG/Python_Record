@@ -23,8 +23,7 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ### PROGRAM
 
 ```
-# Reg.No-212223060182
-# Name-Nandavelan SPS
+
 
 def joinstring(s):
     s1 = '-'.join(s)
