@@ -22,8 +22,7 @@ To write a Python program to create a tuple containing all multiples of 5 up to 
 ### PROGRAM
 
 ```
-# Reg.No-212223060182
-# Name-Nandavelan SPS.
+
 
 n = eval(input())
 a = []
